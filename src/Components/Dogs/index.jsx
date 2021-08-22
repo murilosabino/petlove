@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react'
+
 import * as S from './dogs.styles'
 
 const Dogs = () => {
